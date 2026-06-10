@@ -13,7 +13,7 @@ function App() {
           className="profile-image"
         />
 
-        <h2>Karuppayi</h2>
+        <h2>Guna Sundari</h2>
 
         {!showDetails ? (
           <button
@@ -25,7 +25,7 @@ function App() {
         ) : (
           <>
             <div className="details">
-              <p><strong>Name:</strong> KARUPPAYI</p>
+              <p><strong>Name:</strong> Guna Sundari</p>
               <p><strong>DOB:</strong> 1962</p>
               <p><strong>Place:</strong> Thatchanguritchi, Tiruchirappalli-621712</p>
               <p><strong>Phone No:</strong> 8122898359</p>
@@ -43,7 +43,7 @@ function App() {
                 This treasure was found in the earth.
                 <br />
                 <br />
-                <strong>Owner: KARUPPAYI</strong>
+                <strong>Owner: Guna Sundari</strong>
               </div>
             </div>
 
